@@ -34,7 +34,6 @@ I’m a passionate tech learner who enjoys building projects, exploring cybersec
 - Linux & Arch + Hyperland 🐧  
 - Cybersecurity basics & tools  
 - College projects & productivity systems  
-- Anime 😄✌🏻
 ---
 
 ## 📫 How to Reach Me
@@ -49,7 +48,7 @@ He / Him
 ---
 
 ## ⚡ Fun Fact
-I enjoy watching anime and appreciate its creativity, storytelling, and character development 🎌
+I enjoy watching Anime and appreciate its creativity, storytelling, and character development 🎌
 
 ![Anime](https://img.shields.io/badge/Anime-Fan-0A0F2C?style=for-the-badge&logo=crunchyroll&logoColor=FF7A00)
 
@@ -58,8 +57,7 @@ I enjoy watching anime and appreciate its creativity, storytelling, and characte
 ## 🎯 Interests
 - Cybersecurity & Ethical Hacking  
 - Python Automation  
-- Linux & Open-Source  
-- Watching Anime 🎌  
+- Linux & Open-Source   
 
 ---
 
@@ -69,11 +67,13 @@ I enjoy watching anime and appreciate its creativity, storytelling, and characte
 ![Java](https://img.shields.io/badge/Java-0A0F2C?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0F2C?style=for-the-badge&logo=javascript)
 
+
 ![PHP](https://img.shields.io/badge/PHP-0A0F2C?style=for-the-badge&logo=php)
 ![SQL](https://img.shields.io/badge/SQL-0A0F2C?style=for-the-badge&logo=mysql)
 ![HTML5](https://img.shields.io/badge/HTML5-0A0F2C?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-0A0F2C?style=for-the-badge&logo=css3)
 ![MySQL](https://img.shields.io/badge/MySQL-0A0F2C?style=for-the-badge&logo=mysql)
+
 
 ![Linux](https://img.shields.io/badge/Linux-0A0F2C?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-0A0F2C?style=for-the-badge&logo=git)
