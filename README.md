@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 I'm Ravi Modhvadiya 🚀  
+# 🙂 I'm Ravi Modhvadiya 🚀  
 ### 💻 Developer | 🛡️ Cybersecurity Enthusiast | 🐍 Python Learner
 
 Welcome to my GitHub profile!  
