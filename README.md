@@ -38,8 +38,8 @@
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚁𝚎𝚊𝚌𝚑 𝙼𝚎
 - 📧 𝙴𝚖𝚊𝚒𝚕: *ravimodhvadiya18@gmail.com*
-- 💼 𝙶𝚒𝚝𝙷𝚞𝚋: https://github.com/RaviModhvadiya
-
+- 🤝 𝙶𝚒𝚝𝙷𝚞𝚋: *https://github.com/RaviModhvadiya*
+- 💼 LinkedIn: *https://www.linkedin.com/in/ravi-modhvadiya-347a54344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*
 ---
 
 ## 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜
