@@ -75,8 +75,6 @@ I enjoy watching anime and appreciate its creativity, storytelling, and characte
 ![Computer Networking](https://img.shields.io/badge/Computer_Networking-0066CC?style=for-the-badge&logo=cisco&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
 
 ---
 
