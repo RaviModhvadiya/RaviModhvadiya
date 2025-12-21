@@ -63,19 +63,21 @@ I enjoy watching anime and appreciate its creativity, storytelling, and characte
 ---
 
 ## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-0A0F2C?style=for-the-badge&logo=python&logoColor=00FFD1)
-![C](https://img.shields.io/badge/C-0A0F2C?style=for-the-badge&logo=c&logoColor=00FFD1)
-![Java](https://img.shields.io/badge/Java-0A0F2C?style=for-the-badge&logo=java&logoColor=00FFD1)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0F2C?style=for-the-badge&logo=javascript&logoColor=00FFD1)
-![PHP](https://img.shields.io/badge/PHP-0A0F2C?style=for-the-badge&logo=php&logoColor=00FFD1)
-![SQL](https://img.shields.io/badge/SQL-0A0F2C?style=for-the-badge&logo=mysql&logoColor=00FFD1)
-![HTML5](https://img.shields.io/badge/HTML5-0A0F2C?style=for-the-badge&logo=html5&logoColor=FF4C29)
-![CSS3](https://img.shields.io/badge/CSS3-0A0F2C?style=for-the-badge&logo=css3&logoColor=4FC3F7)
-![MySQL](https://img.shields.io/badge/MySQL-0A0F2C?style=for-the-badge&logo=mysql&logoColor=4FC3F7)
-![Linux](https://img.shields.io/badge/Linux-0A0F2C?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-0A0F2C?style=for-the-badge&logo=git&logoColor=F05032)
-![Computer Networking](https://img.shields.io/badge/Networking-0A0F2C?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0A0F2C?style=for-the-badge&logo=kali-linux&logoColor=00BFFF)
+![Python](https://img.shields.io/badge/Python-0A0F2C?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-0A0F2C?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-0A0F2C?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0F2C?style=for-the-badge&logo=javascript)
+
+![PHP](https://img.shields.io/badge/PHP-0A0F2C?style=for-the-badge&logo=php)
+![SQL](https://img.shields.io/badge/SQL-0A0F2C?style=for-the-badge&logo=mysql)
+![HTML5](https://img.shields.io/badge/HTML5-0A0F2C?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-0A0F2C?style=for-the-badge&logo=css3)
+![MySQL](https://img.shields.io/badge/MySQL-0A0F2C?style=for-the-badge&logo=mysql)
+
+![Linux](https://img.shields.io/badge/Linux-0A0F2C?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-0A0F2C?style=for-the-badge&logo=git)
+![Computer%20Networking](https://img.shields.io/badge/Networking-0A0F2C?style=for-the-badge&logo=cisco)
+![Kali%20Linux](https://img.shields.io/badge/Kali_Linux-0A0F2C?style=for-the-badge&logo=kali-linux)
 
 ---
 
