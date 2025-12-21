@@ -50,7 +50,7 @@
 ## ⚡ 𝙵𝚞𝚗 𝙵𝚊𝚌𝚝
 𝙸 𝚎𝚗𝚓𝚘𝚢 𝚠𝚊𝚝𝚌𝚑𝚒𝚗𝚐 𝙰𝚗𝚒𝚖𝚎 𝚊𝚗𝚍 𝚊𝚙𝚙𝚛𝚎𝚌𝚒𝚊𝚝𝚎 𝚒𝚝𝚜 𝚌𝚛𝚎𝚊𝚝𝚒𝚟𝚒𝚝𝚢, 𝚜𝚝𝚘𝚛𝚢𝚝𝚎𝚕𝚕𝚒𝚗𝚐, 𝚊𝚗𝚍 𝚌𝚑𝚊𝚛𝚊𝚌𝚝𝚎𝚛 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 🎌
 
-![𝙰𝚗𝚒𝚖𝚎](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝙰𝚗𝚒𝚖𝚎-𝙵𝚊𝚗-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚌𝚛𝚞𝚗𝚌𝚑𝚢𝚛𝚘𝚕𝚕&𝚕𝚘𝚐𝚘𝙲𝚘𝚕𝚘𝚛=𝙵𝙵𝟽𝙰𝟶𝟶)
+![Anime](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝙰𝚗𝚒𝚖𝚎-𝙵𝚊𝚗-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚌𝚛𝚞𝚗𝚌𝚑𝚢𝚛𝚘𝚕𝚕&𝚕𝚘𝚐𝚘𝙲𝚘𝚕𝚘𝚛=𝙵𝙵𝟽𝙰𝟶𝟶)
 
 ---
 
@@ -62,23 +62,21 @@
 ---
 
 ## 🛠️ 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
-![𝙿𝚢𝚝𝚑𝚘𝚗](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝙿𝚢𝚝𝚑𝚘𝚗-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚙𝚢𝚝𝚑𝚘𝚗)
-![𝙲](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝙲-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚌)
-![𝙹𝚊𝚟𝚊](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝙹𝚊𝚟𝚊-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚓𝚊𝚟𝚊)
-![𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝)
+![Python](https://img.shields.io/badge/Python-0A0F2C?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-0A0F2C?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-0A0F2C?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0F2C?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-0A0F2C?style=for-the-badge&logo=php)
+![SQL](https://img.shields.io/badge/SQL-0A0F2C?style=for-the-badge&logo=mysql)
 
+![HTML5](https://img.shields.io/badge/HTML5-0A0F2C?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-0A0F2C?style=for-the-badge&logo=css3)
+![MySQL](https://img.shields.io/badge/MySQL-0A0F2C?style=for-the-badge&logo=mysql)
 
-![𝙿𝙷𝙿](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝙿𝙷𝙿-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚙𝚑𝚙)
-![𝚂𝚀𝙻](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝚂𝚀𝙻-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚖𝚢𝚜𝚚𝚕)
-![𝙷𝚃𝙼𝙻𝟻](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝙷𝚃𝙼𝙻𝟻-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚑𝚝𝚖𝚕𝟻)
-![𝙲𝚂𝚂𝟹](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝙲𝚂𝚂𝟹-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚌𝚜𝚜𝟹)
-![𝙼𝚢𝚂𝚀𝙻](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝙼𝚢𝚂𝚀𝙻-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚖𝚢𝚜𝚚𝚕)
-
-
-![𝙻𝚒𝚗𝚞𝚡](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝙻𝚒𝚗𝚞𝚡-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚕𝚒𝚗𝚞𝚡)
-![𝙶𝚒𝚝](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝙶𝚒𝚝-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚐𝚒𝚝)
-![𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛%𝟸𝟶𝙽𝚎𝚝𝚠𝚘𝚛𝚔𝚒𝚗𝚐](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝙽𝚎𝚝𝚠𝚘𝚛𝚔𝚒𝚗𝚐-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚌𝚒𝚜𝚌𝚘)
-![𝙺𝚊𝚕𝚒%𝟸𝟶𝙻𝚒𝚗𝚞𝚡](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝙺𝚊𝚕𝚒_𝙻𝚒𝚗𝚞𝚡-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚔𝚊𝚕𝚒-𝚕𝚒𝚗𝚞𝚡)
+![Linux](https://img.shields.io/badge/Linux-0A0F2C?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-0A0F2C?style=for-the-badge&logo=git)
+![Computer%20Networking](https://img.shields.io/badge/Networking-0A0F2C?style=for-the-badge&logo=cisco)
+![Kali%20Linux](https://img.shields.io/badge/Kali_Linux-0A0F2C?style=for-the-badge&logo=kali-linux)
 
 ---
 
