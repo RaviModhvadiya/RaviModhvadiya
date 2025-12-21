@@ -1,85 +1,85 @@
-## Hi there 👋
+## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎 👋
 
-# 🙂 I'm Ravi 🚀  
-### 💻 Developer | 🛡️ Cybersecurity Enthusiast | 🐍 Python Learner
+# 🙂 𝙸'𝚖 𝚁𝚊𝚟𝚒 🚀  
+### 💻 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | 🛡️ 𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝 | 🐍 𝙿𝚢𝚝𝚑𝚘𝚗 𝙻𝚎𝚊𝚛𝚗𝚎𝚛
 
-Welcome to my GitHub profile!  
-I’m a passionate tech learner who enjoys building projects, exploring cybersecurity, and continuously improving my skills through hands-on practice.
-
----
-
-## 🌱 Currently Learning
-- 🛡️ **Cybersecurity** (SOC, Blue Team)
-- 🐍 **Python** (Basics → Advanced → Real-world automation)
-- 🐧 Linux, Networking & System Internals
+𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎!  
+𝙸’𝚖 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚝𝚎𝚌𝚑 𝚕𝚎𝚊𝚛𝚗𝚎𝚛 𝚠𝚑𝚘 𝚎𝚗𝚓𝚘𝚢𝚜 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜, 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚌𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢, 𝚊𝚗𝚍 𝚌𝚘𝚗𝚝𝚒𝚗𝚞𝚘𝚞𝚜𝚕𝚢 𝚒𝚖𝚙𝚛𝚘𝚟𝚒𝚗𝚐 𝚖𝚢 𝚜𝚔𝚒𝚕𝚕𝚜 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 𝚑𝚊𝚗𝚍𝚜-𝚘𝚗 𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚎.
 
 ---
 
-## 🤝 Looking to Collaborate On
-- Open-source **Python projects**
-- Beginner-friendly **Cybersecurity tools & Projecs**
-- College-level **projects**
+## 🌱 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐
+- 🛡️ **𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢** (𝚂𝙾𝙲, 𝙱𝚕𝚞𝚎 𝚃𝚎𝚊𝚖)
+- 🐍 **𝙿𝚢𝚝𝚑𝚘𝚗** (𝙱𝚊𝚜𝚒𝚌𝚜 → 𝙰𝚍𝚟𝚊𝚗𝚌𝚎𝚍 → 𝚁𝚎𝚊𝚕-𝚠𝚘𝚛𝚕𝚍 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚘𝚗)
+- 🐧 𝙻𝚒𝚗𝚞𝚡, 𝙽𝚎𝚝𝚠𝚘𝚛𝚔𝚒𝚗𝚐 & 𝚂𝚢𝚜𝚝𝚎𝚖 𝙸𝚗𝚝𝚎𝚛𝚗𝚊𝚕𝚜
 
 ---
 
-## 🤔 Looking for Help With
-- Advanced **SOC & Blue Team concepts**
-- Building real-world **security automation tools**
-- Improving project structure & scalability
+## 🤝 𝙻𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝙲𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝙾𝚗
+- 𝙾𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 **𝙿𝚢𝚝𝚑𝚘𝚗 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜**
+- 𝙱𝚎𝚐𝚒𝚗𝚗𝚎𝚛-𝚏𝚛𝚒𝚎𝚗𝚍𝚕𝚢 **𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚝𝚘𝚘𝚕𝚜 & 𝙿𝚛𝚘𝚓𝚎𝚌𝚜**
+- 𝙲𝚘𝚕𝚕𝚎𝚐𝚎-𝚕𝚎𝚟𝚎𝚕 **𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜**
 
 ---
 
-## 💬 Ask Me About
-- Python Programming 🐍  
-- Linux & Arch + Hyperland 🐧  
-- Cybersecurity basics & tools  
-- College projects & productivity systems  
----
-
-## 📫 How to Reach Me
-- 📧 Email: *ravimodhvadiya18@gmail.com*
-- 💼 GitHub: [github.com/RaviModhvadiya](https://github.com/RaviModhvadiya)
+## 🤔 𝙻𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝙷𝚎𝚕𝚙 𝚆𝚒𝚝𝚑
+- 𝙰𝚍𝚟𝚊𝚗𝚌𝚎𝚍 **𝚂𝙾𝙲 & 𝙱𝚕𝚞𝚎 𝚃𝚎𝚊𝚖 𝚌𝚘𝚗𝚌𝚎𝚙𝚝𝚜**
+- 𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚛𝚎𝚊𝚕-𝚠𝚘𝚛𝚕𝚍 **𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚘𝚗 𝚝𝚘𝚘𝚕𝚜**
+- 𝙸𝚖𝚙𝚛𝚘𝚟𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎 & 𝚜𝚌𝚊𝚕𝚊𝚋𝚒𝚕𝚒𝚝𝚢
 
 ---
 
-## 😄 Pronouns
-He / Him
+## 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝
+- 𝙿𝚢𝚝𝚑𝚘𝚗 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 🐍  
+- 𝙻𝚒𝚗𝚞𝚡 & 𝙰𝚛𝚌𝚑 + 𝙷𝚢𝚙𝚎𝚛𝚕𝚊𝚗𝚍 🐧  
+- 𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚋𝚊𝚜𝚒𝚌𝚜 & 𝚝𝚘𝚘𝚕𝚜  
+- 𝙲𝚘𝚕𝚕𝚎𝚐𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 & 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚟𝚒𝚝𝚢 𝚜𝚢𝚜𝚝𝚎𝚖𝚜  
+---
+
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚁𝚎𝚊𝚌𝚑 𝙼𝚎
+- 📧 𝙴𝚖𝚊𝚒𝚕: *𝚛𝚊𝚟𝚒𝚖𝚘𝚍𝚑𝚟𝚊𝚍𝚒𝚢𝚊𝟷𝟾@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖*
+- 💼 𝙶𝚒𝚝𝙷𝚞𝚋: [𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚟𝚒𝙼𝚘𝚍𝚑𝚟𝚊𝚍𝚒𝚢𝚊](𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚟𝚒𝙼𝚘𝚍𝚑𝚟𝚊𝚍𝚒𝚢𝚊)
 
 ---
 
-## ⚡ Fun Fact
-I enjoy watching Anime and appreciate its creativity, storytelling, and character development 🎌
-
-![Anime](https://img.shields.io/badge/Anime-Fan-0A0F2C?style=for-the-badge&logo=crunchyroll&logoColor=FF7A00)
+## 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜
+𝙷𝚎 / 𝙷𝚒𝚖
 
 ---
 
-## 🎯 Interests
-- Cybersecurity & Ethical Hacking  
-- Python Automation  
-- Linux & Open-Source   
+## ⚡ 𝙵𝚞𝚗 𝙵𝚊𝚌𝚝
+𝙸 𝚎𝚗𝚓𝚘𝚢 𝚠𝚊𝚝𝚌𝚑𝚒𝚗𝚐 𝙰𝚗𝚒𝚖𝚎 𝚊𝚗𝚍 𝚊𝚙𝚙𝚛𝚎𝚌𝚒𝚊𝚝𝚎 𝚒𝚝𝚜 𝚌𝚛𝚎𝚊𝚝𝚒𝚟𝚒𝚝𝚢, 𝚜𝚝𝚘𝚛𝚢𝚝𝚎𝚕𝚕𝚒𝚗𝚐, 𝚊𝚗𝚍 𝚌𝚑𝚊𝚛𝚊𝚌𝚝𝚎𝚛 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 🎌
+
+![𝙰𝚗𝚒𝚖𝚎](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝙰𝚗𝚒𝚖𝚎-𝙵𝚊𝚗-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚌𝚛𝚞𝚗𝚌𝚑𝚢𝚛𝚘𝚕𝚕&𝚕𝚘𝚐𝚘𝙲𝚘𝚕𝚘𝚛=𝙵𝙵𝟽𝙰𝟶𝟶)
 
 ---
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-0A0F2C?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-0A0F2C?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-0A0F2C?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0F2C?style=for-the-badge&logo=javascript)
-
-
-![PHP](https://img.shields.io/badge/PHP-0A0F2C?style=for-the-badge&logo=php)
-![SQL](https://img.shields.io/badge/SQL-0A0F2C?style=for-the-badge&logo=mysql)
-![HTML5](https://img.shields.io/badge/HTML5-0A0F2C?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-0A0F2C?style=for-the-badge&logo=css3)
-![MySQL](https://img.shields.io/badge/MySQL-0A0F2C?style=for-the-badge&logo=mysql)
-
-
-![Linux](https://img.shields.io/badge/Linux-0A0F2C?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-0A0F2C?style=for-the-badge&logo=git)
-![Computer%20Networking](https://img.shields.io/badge/Networking-0A0F2C?style=for-the-badge&logo=cisco)
-![Kali%20Linux](https://img.shields.io/badge/Kali_Linux-0A0F2C?style=for-the-badge&logo=kali-linux)
+## 🎯 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜
+- 𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 & 𝙴𝚝𝚑𝚒𝚌𝚊𝚕 𝙷𝚊𝚌𝚔𝚒𝚗𝚐  
+- 𝙿𝚢𝚝𝚑𝚘𝚗 𝙰𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚘𝚗  
+- 𝙻𝚒𝚗𝚞𝚡 & 𝙾𝚙𝚎𝚗-𝚂𝚘𝚞𝚛𝚌𝚎   
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*  
+## 🛠️ 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
+![𝙿𝚢𝚝𝚑𝚘𝚗](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝙿𝚢𝚝𝚑𝚘𝚗-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚙𝚢𝚝𝚑𝚘𝚗)
+![𝙲](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝙲-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚌)
+![𝙹𝚊𝚟𝚊](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝙹𝚊𝚟𝚊-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚓𝚊𝚟𝚊)
+![𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚓𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝)
+
+
+![𝙿𝙷𝙿](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝙿𝙷𝙿-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚙𝚑𝚙)
+![𝚂𝚀𝙻](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝚂𝚀𝙻-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚖𝚢𝚜𝚚𝚕)
+![𝙷𝚃𝙼𝙻𝟻](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝙷𝚃𝙼𝙻𝟻-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚑𝚝𝚖𝚕𝟻)
+![𝙲𝚂𝚂𝟹](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝙲𝚂𝚂𝟹-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚌𝚜𝚜𝟹)
+![𝙼𝚢𝚂𝚀𝙻](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝙼𝚢𝚂𝚀𝙻-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚖𝚢𝚜𝚚𝚕)
+
+
+![𝙻𝚒𝚗𝚞𝚡](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝙻𝚒𝚗𝚞𝚡-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚕𝚒𝚗𝚞𝚡)
+![𝙶𝚒𝚝](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝙶𝚒𝚝-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚐𝚒𝚝)
+![𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛%𝟸𝟶𝙽𝚎𝚝𝚠𝚘𝚛𝚔𝚒𝚗𝚐](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝙽𝚎𝚝𝚠𝚘𝚛𝚔𝚒𝚗𝚐-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚌𝚒𝚜𝚌𝚘)
+![𝙺𝚊𝚕𝚒%𝟸𝟶𝙻𝚒𝚗𝚞𝚡](𝚑𝚝𝚝𝚙𝚜://𝚒𝚖𝚐.𝚜𝚑𝚒𝚎𝚕𝚍𝚜.𝚒𝚘/𝚋𝚊𝚍𝚐𝚎/𝙺𝚊𝚕𝚒_𝙻𝚒𝚗𝚞𝚡-𝟶𝙰𝟶𝙵𝟸𝙲?𝚜𝚝𝚢𝚕𝚎=𝚏𝚘𝚛-𝚝𝚑𝚎-𝚋𝚊𝚍𝚐𝚎&𝚕𝚘𝚐𝚘=𝚔𝚊𝚕𝚒-𝚕𝚒𝚗𝚞𝚡)
+
+---
+
+⭐ *𝙸𝚏 𝚢𝚘𝚞 𝚕𝚒𝚔𝚎 𝚖𝚢 𝚠𝚘𝚛𝚔, 𝚌𝚘𝚗𝚜𝚒𝚍𝚎𝚛 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚖𝚢 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!*     𝙶𝚒𝚟𝚎 𝚖𝚎 𝚃𝚑𝚒𝚜 𝙰𝚕𝚕 𝚃𝚎𝚡𝚝𝚜 𝚒𝚗 𝚄𝚗𝚒𝚚𝚞𝚎 𝚝𝚑𝚊𝚝 𝚕𝚘𝚘𝚔𝚜 𝚙𝚎𝚛𝚏𝚎𝚌𝚝 𝚏𝚘𝚛 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚘𝚛 𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚒𝚝𝚢 𝚒𝚗 𝙶𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚜𝚒𝚖𝚙𝚕𝚎 𝚠𝚊𝚢 𝚕𝚘𝚘𝚔𝚜 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚘𝚗𝚊𝚕
