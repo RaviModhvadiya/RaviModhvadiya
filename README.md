@@ -64,7 +64,7 @@
 ## 🛠️ 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
 ![Python](https://img.shields.io/badge/Python-0A0F2C?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-0A0F2C?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-0A0F2C?style=flat-square&logo=openjdk&logoColor=00FFD1)
+![Java](https://img.shields.io/badge/Java-0A0F2C?style=for-the-badge&logo=openjdk&logoColor=00FFD1)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0F2C?style=for-the-badge&logo=javascript)
 
 ![PHP](https://img.shields.io/badge/PHP-0A0F2C?style=for-the-badge&logo=php)
