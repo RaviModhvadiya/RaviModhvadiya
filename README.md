@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 🙂 I'm Ravi Modhvadiya 🚀  
+# 🙂 I'm Ravi 🚀  
 ### 💻 Developer | 🛡️ Cybersecurity Enthusiast | 🐍 Python Learner
 
 Welcome to my GitHub profile!  
@@ -15,9 +15,9 @@ I’m a passionate tech learner who enjoys building projects, exploring cybersec
 
 ---
 
-## 👯 Looking to Collaborate On
+## 🤝 Looking to Collaborate On
 - Open-source **Python projects**
-- Beginner-friendly **Cybersecurity tools**
+- Beginner-friendly **Cybersecurity tools & Projecs**
 - College-level **projects**
 
 ---
@@ -34,7 +34,7 @@ I’m a passionate tech learner who enjoys building projects, exploring cybersec
 - Linux & Arch + Hyperland 🐧  
 - Cybersecurity basics & tools  
 - College projects & productivity systems  
-
+- Anime 😄✌🏻
 ---
 
 ## 📫 How to Reach Me
