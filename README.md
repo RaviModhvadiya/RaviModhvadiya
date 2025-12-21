@@ -50,6 +50,7 @@ He / Him
 
 ## ⚡ Fun Fact
 I enjoy watching anime and appreciate its creativity, storytelling, and character development 🎌
+
 ![Anime](https://img.shields.io/badge/Anime-Fan-0A0F2C?style=for-the-badge&logo=crunchyroll&logoColor=FF7A00)
 
 ---
