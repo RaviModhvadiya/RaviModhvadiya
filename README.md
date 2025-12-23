@@ -4,14 +4,14 @@
 ### 💻 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | 🛡️ 𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝 | 🐍 𝙿𝚢𝚝𝚑𝚘𝚗 𝙻𝚎𝚊𝚛𝚗𝚎𝚛
 
 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎!  
-𝙸’𝚖 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚝𝚎𝚌𝚑 𝚕𝚎𝚊𝚛𝚗𝚎𝚛 𝚠𝚑𝚘 𝚎𝚗𝚓𝚘𝚢𝚜 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜, 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚌𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢, 𝚊𝚗𝚍 𝚌𝚘𝚗𝚝𝚒𝚗𝚞𝚘𝚞𝚜𝚕𝚢 𝚒𝚖𝚙𝚛𝚘𝚟𝚒𝚗𝚐 𝚖𝚢 𝚜𝚔𝚒𝚕𝚕𝚜 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 𝚑𝚊𝚗𝚍𝚜-𝚘𝚗 𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚎.
+𝙸’𝚖 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚝𝚎𝚌𝚑 𝚕𝚎𝚊𝚛𝚗𝚎𝚛 𝚠𝚑𝚘 𝚎𝚗𝚓𝚘𝚢𝚜 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜, 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚌𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 and Blue Team Work.
 
 ---
 
 ## 🌱 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐
 - 🛡️ **𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢** (𝚂𝙾𝙲, 𝙱𝚕𝚞𝚎 𝚃𝚎𝚊𝚖)
 - 🐍 **𝙿𝚢𝚝𝚑𝚘𝚗** (𝙱𝚊𝚜𝚒𝚌𝚜 → 𝙰𝚍𝚟𝚊𝚗𝚌𝚎𝚍 → 𝚁𝚎𝚊𝚕-𝚠𝚘𝚛𝚕𝚍 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚘𝚗)
-- 🐧 𝙻𝚒𝚗𝚞𝚡, 𝙽𝚎𝚝𝚠𝚘𝚛𝚔𝚒𝚗𝚐 & 𝚂𝚢𝚜𝚝𝚎𝚖 𝙸𝚗𝚝𝚎𝚛𝚗𝚊𝚕𝚜
+- 🐧 𝙻𝚒𝚗𝚞𝚡, 𝙽𝚎𝚝𝚠𝚘𝚛𝚔𝚒𝚗𝚐 & Open-source
 
 ---
 
@@ -31,15 +31,15 @@
 
 ## 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝
 - 𝙿𝚢𝚝𝚑𝚘𝚗 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 🐍  
-- 𝙻𝚒𝚗𝚞𝚡 & 𝙰𝚛𝚌𝚑 + 𝙷𝚢𝚙𝚎𝚛𝚕𝚊𝚗𝚍 🐧  
+- 𝙻𝚒𝚗𝚞𝚡 & 𝙰𝚛𝚌𝚑𝙷𝚢𝚙𝚎𝚛𝚕𝚊𝚗𝚍 🐧  
 - 𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚋𝚊𝚜𝚒𝚌𝚜 & 𝚝𝚘𝚘𝚕𝚜  
-- 𝙲𝚘𝚕𝚕𝚎𝚐𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 & 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚟𝚒𝚝𝚢 𝚜𝚢𝚜𝚝𝚎𝚖𝚜  
+- College Level Projects
 ---
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚁𝚎𝚊𝚌𝚑 𝙼𝚎
 - 📧 𝙴𝚖𝚊𝚒𝚕: *ravimodhvadiya18@gmail.com*
-- 🤝 𝙶𝚒𝚝𝙷𝚞𝚋: *https://github.com/RaviModhvadiya*
-- 💼 LinkedIn: *https://www.linkedin.com/in/ravi-modhvadiya-347a54344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*
+- 💼 𝙶𝚒𝚝𝙷𝚞𝚋: *https://github.com/RaviModhvadiya*
+- 🫱🏻‍🫲🏼 LinkedIn: *https://www.linkedin.com/in/ravi-modhvadiya-347a54344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*
 ---
 
 ## 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜
