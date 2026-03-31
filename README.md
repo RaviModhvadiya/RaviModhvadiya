@@ -3,37 +3,6 @@
 
 # I am Ravi
 
-💻 Developer
-🛡️ Cybersecurity Learner
-🐍 Python Learner
-
----
-
-## 🚀 Currently Learning
-
-* Cybersecurity (SOC & Blue Team)
-* Python
-* Linux & Networking
-
----
-
-## 🤝 Open To Collaborate
-
-* Python Projects
-* Beginner Cybersecurity Projects
-* Open-Source Contributions
-
----
-
-## 💬 Ask Me About
-
-* Python Basics
-* Linux
-* Networking
-* Cybersecurity Fundamentals
-
----
-
 ## 📫 Contact
 
 * 📧 [ravimodhvadiya18@gmail.com](mailto:ravimodhvadiya18@gmail.com)
