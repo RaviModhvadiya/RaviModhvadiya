@@ -35,6 +35,7 @@
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-0A0F2C?style=for-the-badge&logo=tryhackme&logoColor=red)
 ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-0A0F2C?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+![Splunk](https://img.shields.io/badge/Splunk-0A0F2C?style=for-the-badge&logo=splunk&logoColor=9FEF00)
 
 ---
 
