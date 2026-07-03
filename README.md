@@ -20,6 +20,7 @@
 - 🎯 Building hands-on experience as a **SOC Analyst**
 - 🕹️ Currently sharpening skills on **TryHackMe** and **Hack The Box**
 - 🌐 Learning the internals of networking, Linux, and SIEM tooling
+- 👁️ Off-duty: manga panels, dark palettes, and anything Tokyo Ghoul
 - 📫 Reach me at:
 
 <div align="center">
@@ -45,16 +46,46 @@
 <div align="center">
 
 ```
-┌────────────────────────────────────┐
-│  root@blueteam:~$ whoami          │
-│  > Ravi Modhvadiya - SOC Analyst  │
-│  > Status: Monitoring the wire... │
-└────────────────────────────────────┘
+┌─────────────────────────────────────┐
+│  root@blueteam:~$ whoami             │
+│  > Ravi Modhvadiya - SOC Analyst     │
+│  > Status: Monitoring the wire...    │
+│  > Eyes: one open, always watching   │
+└─────────────────────────────────────┘
 ```
 
 </div>
 
-<!-- Want your own graphic here instead? Drop it in like this: <img src="YOUR_IMAGE_URL" width="250"/> -->
+<br/>
+
+<div align="center">
+
+<img src="./kaneki.gif" width="240" alt="night shift"/>
+
+<br/>
+
+<sub>// one eye open, always watching the wire</sub>
+
+</div>
+
+<!-- This is the "whoami" portrait slot. Swap kaneki.gif for any image/gif — keep it in the repo root and update the filename above to match. -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E17,50:00D9FF,100:0A0E17&height=4" width="100%">
+
+### 🧰 Security Arsenal
+
+<div align="center">
+
+![Wireshark](https://img.shields.io/badge/Wireshark-Packets-00D9FF?style=for-the-badge&labelColor=0A0E17)
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-00D9FF?style=for-the-badge&labelColor=0A0E17)
+![Suricata](https://img.shields.io/badge/Suricata-IDS-00D9FF?style=for-the-badge&labelColor=0A0E17)
+![Wazuh](https://img.shields.io/badge/Wazuh-HIDS-00D9FF?style=for-the-badge&labelColor=0A0E17)
+![Nmap](https://img.shields.io/badge/Nmap-Recon-00D9FF?style=for-the-badge&labelColor=0A0E17)
+![BurpSuite](https://img.shields.io/badge/Burp%20Suite-Web-00D9FF?style=for-the-badge&labelColor=0A0E17)
+![Metasploit](https://img.shields.io/badge/Metasploit-Exploit-00D9FF?style=for-the-badge&labelColor=0A0E17)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-Labs-00D9FF?style=for-the-badge&labelColor=0A0E17)
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E17,50:00D9FF,100:0A0E17&height=4" width="100%">
 
@@ -91,6 +122,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaviModhvadiya&layout=compact&hide_border=true&bg_color=0A0E17&title_color=00D9FF&text_color=C9D1D9"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaviModhvadiya&bg_color=0A0E17&color=00D9FF&line=00D9FF&point=E5F6FF&hide_border=true" width="100%"/>
 
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=RaviModhvadiya&theme=darkhub&no-frame=true&margin-w=8&row=1&column=6" width="100%"/>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E17,50:00D9FF,100:0A0E17&height=4" width="100%">
@@ -105,9 +140,24 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RaviModhvadiya/RaviModhvadiya/output/github-contribution-grid-snake.svg">
 </picture>
 
-<sub>Needs the companion workflow file — see the note after this file.</sub>
+<sub>Animated by the included <code>.github/workflows/snake.yml</code> — push to <code>main</code> once and it self-generates daily.</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E17,50:00D9FF,100:0A0E17&height=4" width="100%">
+
+### 🧾 Latest Write-ups
+
+<div align="center">
+
+| Room / Box | Platform | Status |
+|:---|:---:|:---:|
+| _add your first write-up here_ | TryHackMe | 🟡 In Progress |
+| _add your first box here_ | Hack The Box | 🟡 In Progress |
+
+</div>
+
+<sub align="center">Swap these rows for links to your published write-ups as you post them.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E17,50:00D9FF,100:0A0E17&height=4" width="100%">
 
