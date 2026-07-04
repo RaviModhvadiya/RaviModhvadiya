@@ -3,12 +3,45 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E17,50:003559,100:0A0E17&height=220&section=header&text=Ravi%20Modhvadiya&fontSize=46&fontColor=00D9FF&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Learner%20%7C%20SOC%20Analyst&descAlignY=52&descSize=18&descColor=C9D1D9" width="100%"/>
 
 <a href="https://github.com/RaviModhvadiya">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=%22One+cannot+obtain+without+sacrificing%22;Blue+Team+%7C+Defensive+Security;Monitoring+%2F+Detecting+%2F+Responding;Currently+hunting+in+TryHackMe+%26+HTB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=%22One+cannot+obtain+without+sacrificing%22;Blue+Team+%7C+Defensive+Security;Monitoring+%2F+Detecting+%2F+Responding;Currently+hunting+on+TryHackMe+%26+HTB" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=RaviModhvadiya&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile views" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E17,50:00D9FF,100:0A0E17&height=4" width="100%">
+
+<!-- Profile Trophies -->
+<div align="center">
+  <a href="https://github.com/RaviModhvadiya">
+    <img src="https://github-profile-trophy.vercel.app/?username=RaviModhvadiya&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" alt="trophy case"/>
+  </a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E17,50:00D9FF,100:0A0E17&height=4" width="100%">
+
+### 📊 GitHub Stats
+
+<p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=RaviModhvadiya&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0A0E17&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" />
+</td>
+<td width="50%" align="center">
+    <img width="100%" src="https://streak-stats.demolab.com/?user=RaviModhvadiya&hide_border=true&background=0A0E17&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=5b6b82" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
+</p>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaviModhvadiya&layout=compact&hide_border=true&bg_color=0A0E17&title_color=00D9FF&text_color=C9D1D9"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaviModhvadiya&bg_color=0A0E17&color=00D9FF&line=00D9FF&point=E5F6FF&hide_border=true" width="100%"/>
 
 </div>
 
@@ -56,20 +89,6 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img src="./kaneki.gif" width="240" alt="night shift"/>
-
-<br/>
-
-<sub>// one eye open, always watching the wire</sub>
-
-</div>
-
-<!-- This is the "whoami" portrait slot. Swap kaneki.gif for any image/gif — keep it in the repo root and update the filename above to match. -->
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E17,50:00D9FF,100:0A0E17&height=4" width="100%">
 
 ### 🧰 Security Arsenal
@@ -95,7 +114,7 @@
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,c,java,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,c,java,js&theme=dark" />
 
 <br/><br/>
 
@@ -108,23 +127,6 @@
 **Tools & Platforms**
 <br/>
 <img src="https://skillicons.dev/icons?i=linux,git,kali,bash&theme=dark" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E17,50:00D9FF,100:0A0E17&height=4" width="100%">
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RaviModhvadiya&show_icons=true&hide_border=true&bg_color=0A0E17&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=RaviModhvadiya&hide_border=true&background=0A0E17&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=5b6b82"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaviModhvadiya&layout=compact&hide_border=true&bg_color=0A0E17&title_color=00D9FF&text_color=C9D1D9"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaviModhvadiya&bg_color=0A0E17&color=00D9FF&line=00D9FF&point=E5F6FF&hide_border=true" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=RaviModhvadiya&theme=darkhub&no-frame=true&margin-w=8&row=1&column=6" width="100%"/>
 
 </div>
 
@@ -160,6 +162,43 @@
 <sub align="center">Swap these rows for links to your published write-ups as you post them.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E17,50:00D9FF,100:0A0E17&height=4" width="100%">
+
+<!-- Image showcase: portrait + live "SOC monitor" panel (dist/soc-monitor.svg is an original,
+     self-contained animated SVG — radar sweep + log feed — generated for this repo) -->
+<div align="center">
+
+<table>
+<tr>
+<td width="240" align="center">
+<img width="220" alt="one eye open" src="./kaneki.gif"/>
+<br/>
+<sub>// one eye open,<br/>always watching the wire</sub>
+</td>
+<td align="center">
+<img width="100%" alt="SOC monitor panel" src="./dist/soc-monitor.svg"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+```
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣠⣤⣴⣶⣶⠿⠿⠿⠿⠿⢛⣛⣛⣛⠻⠿⠿⠿⠿⢷⣶⣶⣤⣤⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣴⣶⠿⠟⠛⠋⠉⠁⠀⠀⠀⠀⠄⠒⠻⣿⣿⣿⣿⣿⣷⣦⣄⠀⠀⠀⠀⠉⠉⠛⠛⠿⢷⣶⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⠿⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⡄⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠻⢷⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⡾⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣧⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠻⣶⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣿⠀⠀⢀⣴⣾⣿⣥⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣴⣿⣿⣷⣶⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣽⣿⣶⣄⠀⠀⢸⡇⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣿⠀⠈⠙⢷⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣶⠟⠉⠀⢸⡇⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠈⠛⢷⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣶⠟⠋⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠿⣶⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣴⡾⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠻⢷⣶⣤⣄⣀⡀⠀⠀⠀⠀⠀⠙⠿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠁⠀⠀⠀⠀⠀⣀⣀⣤⣴⣶⠿⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠛⠻⠿⢷⣶⣶⣤⣤⣤⣤⣭⣙⣛⣛⣛⣩⣥⣤⣤⣤⣴⣶⣶⠿⠿⠛⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠛⠛⠛⠛⠋⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```
+
+<p align="center"><sub>SYSTEM EYE // STATUS: MONITORING</sub></p>
 
 <div align="center">
 
