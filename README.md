@@ -31,7 +31,7 @@
 
 ### 📊 GitHub Stats
 
-<!-- <p align="center">
+<p align="center">
 <table align="center">
 
 <tr>
@@ -43,7 +43,7 @@
 </td>
 </tr>
 </table>
-</p> -->
+</p> 
 
 <div align="center">
 
@@ -52,7 +52,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:58A6FF,100:0D1117&height=4" width="100%">
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:58A6FF,100:0D1117&height=4" width="100%"> -->
 
 ### 🛠️ SOC Tools
 
