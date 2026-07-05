@@ -187,18 +187,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:58A6FF,100:0D1117&height=4" width="100%">
 
-### 🐍 Contribution Snake
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaviModhvadiya/RaviModhvadiya/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaviModhvadiya/RaviModhvadiya/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RaviModhvadiya/RaviModhvadiya/output/github-contribution-grid-snake.svg">
-</picture>
-
-<sub>Animated by the included <code>.github/workflows/snake.yml</code> — push to <code>main</code> once and it self-generates daily.</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B2838,100:0D1117&height=120&section=footer" width="100%"/>
