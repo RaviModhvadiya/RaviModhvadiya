@@ -185,21 +185,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:58A6FF,100:0D1117&height=4" width="100%">
 
-<div align="center">
-
-<table>
-<tr>
-<td width="320" align="center">
-<img width="320" height="320" alt="Ichigo artwork" src="./ichigo.png"/>
-</td>
-<td width="320" align="center">
-<img width="320" height="320" alt="Makima artwork" src="./makima.png"/>
-</td>
-</tr>
-</table>
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:58A6FF,100:0D1117&height=4" width="100%">
 
 ### 🐍 Contribution Snake
