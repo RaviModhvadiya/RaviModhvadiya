@@ -31,8 +31,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 <table align="center">
+
 <tr>
 <td width="50%" align="center">
     <img width="100%" src="https://github-readme-stats.vercel.app/api?username=RaviModhvadiya&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=00E5FF&text_color=F0F6FC&ring_color=58A6FF" />
@@ -42,7 +43,7 @@
 </td>
 </tr>
 </table>
-</p>
+</p> -->
 
 <div align="center">
 
