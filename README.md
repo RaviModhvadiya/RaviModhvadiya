@@ -36,23 +36,19 @@
 
 <tr>
 <td width="50%" align="center">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=RaviModhvadiya&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=00E5FF&text_color=F0F6FC&ring_color=58A6FF" />
-</td>
-<td width="50%" align="center">
     <img width="100%" src="https://streak-stats.demolab.com/?user=RaviModhvadiya&hide_border=true&background=0D1117&ring=58A6FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=F0F6FC&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E" alt="GitHub Streak" />
-</td>
+</td> 
 </tr>
 </table>
 </p> 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaviModhvadiya&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaviModhvadiya&bg_color=0D1117&color=58A6FF&line=58A6FF&point=00E5FF&hide_border=true" width="100%"/>
 
 </div>
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:58A6FF,100:0D1117&height=4" width="100%"> -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:58A6FF,100:0D1117&height=4" width="100%">
 
 ### 🛠️ SOC Tools
 
@@ -159,15 +155,6 @@
 - CyberChef
 
 </td>
-<td valign="top" width="20%">
-
-**DFIR**
-- Autopsy
-- Velociraptor
-- Volatility
-- FTK Imager
-
-</td>
 </tr>
 </table>
 
@@ -178,7 +165,6 @@
 <div align="center">
 
 ![Security+](https://img.shields.io/badge/CompTIA%20Security%2B-Preparing-58A6FF?style=for-the-badge&logo=comptia&logoColor=white&labelColor=0D1117)
-![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-Completed-58A6FF?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117)
 ![Cisco Networking](https://img.shields.io/badge/Cisco%20Networking-Completed-58A6FF?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0D1117)
 ![TryHackMe SOC L1](https://img.shields.io/badge/TryHackMe-SOC%20Level%201-58A6FF?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0D1117)
 
