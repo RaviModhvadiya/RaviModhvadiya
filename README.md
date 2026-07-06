@@ -8,8 +8,8 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=0D1117)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0D1117)](https://linkedin.com/in/your-handle)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=0D1117)](mailto:ravimodhvadiya18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0D1117)]([https://linkedin.com/in/your-handle](https://www.linkedin.com/in/ravi-modhvadiya-347a54344/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6n8bXlxEQ1GxnJKyWFS2MQ%3D%3D))
 
 <br/>
 
