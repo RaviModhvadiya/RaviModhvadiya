@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m College Student<br>👯 Aspiring SOC Analyst <br>💬 Ask me about Cybersecurity<br>⚡ I am fan Anime.
+🔭 I’m College Student<br>👯 Aspiring SOC Analyst.
 
 
 ## 🌐 Socials:
