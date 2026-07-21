@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m College Student<br>👯 Aspiring SOC Analyst.
+🔭 I’m College Student<br>
 
 
 ## 🌐 Socials:
