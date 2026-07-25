@@ -1,0 +1,54 @@
+<svg viewBox="0 0 302 254" width="302" height="254" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="302" height="254" rx="10" fill="#0a0e14"/>
+  
+  <clipPath id="clip0">
+    <rect x="30" y="30" width="0" height="22">
+      <animate attributeName="width" from="0" to="242" begin="0.00s" dur="0.35s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <g clip-path="url(#clip0)"><rect x="30" y="30" width="18" height="18" rx="3" fill="#ffb020"/><rect x="52" y="30" width="18" height="18" rx="3" fill="#ffb020"/><rect x="74" y="30" width="18" height="18" rx="3" fill="#ffb020"/><rect x="96" y="30" width="18" height="18" rx="3" fill="#ffb020"/><rect x="162" y="30" width="18" height="18" rx="3" fill="#ffb020"/><rect x="250" y="30" width="18" height="18" rx="3" fill="#ffb020"/></g>
+  <clipPath id="clip1">
+    <rect x="30" y="52" width="0" height="22">
+      <animate attributeName="width" from="0" to="242" begin="0.09s" dur="0.35s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <g clip-path="url(#clip1)"><rect x="30" y="52" width="18" height="18" rx="3" fill="#ffb020"/><rect x="118" y="52" width="18" height="18" rx="3" fill="#ffb020"/><rect x="162" y="52" width="18" height="18" rx="3" fill="#ffb020"/><rect x="184" y="52" width="18" height="18" rx="3" fill="#ffb020"/><rect x="228" y="52" width="18" height="18" rx="3" fill="#ffb020"/><rect x="250" y="52" width="18" height="18" rx="3" fill="#ffb020"/></g>
+  <clipPath id="clip2">
+    <rect x="30" y="74" width="0" height="22">
+      <animate attributeName="width" from="0" to="242" begin="0.18s" dur="0.35s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <g clip-path="url(#clip2)"><rect x="30" y="74" width="18" height="18" rx="3" fill="#ffb020"/><rect x="118" y="74" width="18" height="18" rx="3" fill="#ffb020"/><rect x="162" y="74" width="18" height="18" rx="3" fill="#ffb020"/><rect x="206" y="74" width="18" height="18" rx="3" fill="#ffb020"/><rect x="250" y="74" width="18" height="18" rx="3" fill="#ffb020"/></g>
+  <clipPath id="clip3">
+    <rect x="30" y="96" width="0" height="22">
+      <animate attributeName="width" from="0" to="242" begin="0.27s" dur="0.35s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <g clip-path="url(#clip3)"><rect x="30" y="96" width="18" height="18" rx="3" fill="#ffb020"/><rect x="52" y="96" width="18" height="18" rx="3" fill="#ffb020"/><rect x="74" y="96" width="18" height="18" rx="3" fill="#ffb020"/><rect x="96" y="96" width="18" height="18" rx="3" fill="#ffb020"/><rect x="162" y="96" width="18" height="18" rx="3" fill="#ffb020"/><rect x="250" y="96" width="18" height="18" rx="3" fill="#ffb020"/></g>
+  <clipPath id="clip4">
+    <rect x="30" y="118" width="0" height="22">
+      <animate attributeName="width" from="0" to="242" begin="0.36s" dur="0.35s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <g clip-path="url(#clip4)"><rect x="30" y="118" width="18" height="18" rx="3" fill="#ffb020"/><rect x="74" y="118" width="18" height="18" rx="3" fill="#ffb020"/><rect x="162" y="118" width="18" height="18" rx="3" fill="#ffb020"/><rect x="250" y="118" width="18" height="18" rx="3" fill="#ffb020"/></g>
+  <clipPath id="clip5">
+    <rect x="30" y="140" width="0" height="22">
+      <animate attributeName="width" from="0" to="242" begin="0.45s" dur="0.35s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <g clip-path="url(#clip5)"><rect x="30" y="140" width="18" height="18" rx="3" fill="#ffb020"/><rect x="96" y="140" width="18" height="18" rx="3" fill="#ffb020"/><rect x="162" y="140" width="18" height="18" rx="3" fill="#ffb020"/><rect x="250" y="140" width="18" height="18" rx="3" fill="#ffb020"/></g>
+  <clipPath id="clip6">
+    <rect x="30" y="162" width="0" height="22">
+      <animate attributeName="width" from="0" to="242" begin="0.54s" dur="0.35s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <g clip-path="url(#clip6)"><rect x="30" y="162" width="18" height="18" rx="3" fill="#ffb020"/><rect x="118" y="162" width="18" height="18" rx="3" fill="#ffb020"/><rect x="162" y="162" width="18" height="18" rx="3" fill="#ffb020"/><rect x="250" y="162" width="18" height="18" rx="3" fill="#ffb020"/></g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.98s" dur="0.4s" fill="freeze" />
+    <text x="30" y="214" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#ffb020">ravimodhvadiya</text>
+  </g>
+  <rect x="147.60000000000002" y="202" width="8" height="14" fill="#ffb020" opacity="0">
+    <set attributeName="opacity" to="1" begin="1.38s" />
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;1;1" begin="1.38s" dur="1s" repeatCount="indefinite" />
+  </rect>
+</svg>
